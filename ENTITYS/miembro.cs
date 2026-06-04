@@ -24,5 +24,6 @@ this.apellido = apellido;
 
 }
 
-public abstract MostrarInformacion();
+    public abstract void MostrarDatos();
+
 }
